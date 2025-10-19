@@ -15,6 +15,6 @@ if A >= B and A >= C:: Mengecek apakah A lebih besar atau sama dengan kedua bila
 elif B >= A and B >= C:: Jika kondisi pertama salah, cek apakah B lebih besar atau sama dengan A dan C.
 else:: Jika kedua kondisi di atas salah, maka otomatis C adalah yang terbesar.
 Output: Bilangan terbesar dicetak menggunakan fungsi print().
+
 # Hasil output
 <img width="709" height="74" alt="Screenshot 2025-10-19 164458" src="https://github.com/user-attachments/assets/79592fb0-94bf-4d9a-a056-23dae91d8f45" />
-
