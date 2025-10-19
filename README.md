@@ -8,6 +8,7 @@ Jika tidak, program membandingkan bil2 dengan bil1 dan bil3. Jika bil2 lebih bes
 Jika kedua kondisi di atas tidak terpenuhi, secara otomatis bil3 adalah bilangan terbesar. Hasil perbandingan (bilangan terbesar) akan dicetak melalui proses OUTPUT, dan alur program diakhiri dengan END.
 # Kode program (terbesar.py)
 <img width="507" height="368" alt="Screenshot 2025-10-19 131438" src="https://github.com/user-attachments/assets/0ca5e2e0-8c00-47c2-8ad0-2fea930e6104" />
+
 Penjelasan Kode Program:
 Input: Program menggunakan input() dan diubah ke tipe int() untuk menerima tiga bilangan bulat. Blok try-except digunakan untuk menangani kesalahan jika input yang dimasukkan bukan angka.
 Percabangan if-elif-else:
